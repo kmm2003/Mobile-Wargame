@@ -1,3 +1,3 @@
 # Wargame Development
 
-Wargame development project.
+Mobile Reversing Wargame development project.
