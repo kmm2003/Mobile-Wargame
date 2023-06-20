@@ -69,8 +69,9 @@ extern "C" JNIEXPORT jboolean JNICALL Java_com_bob_ctf_CodeCheck_keyme(
     /*
     const char *arg = env->GetStringUTFChars(arg1, 0);
     env->ReleaseStringUTFChars(arg1, arg);
-    */
     memcpy(key, arg, 24);
+    */
+    memcpy(key, arg1, 24);
 
     generator(key);
 
