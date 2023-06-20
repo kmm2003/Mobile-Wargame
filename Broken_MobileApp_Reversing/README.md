@@ -1,6 +1,6 @@
 # writeup
 
-To analyze the bob.apk given as a problem file, start the analysis using the decompile tool (JEB, JADX, etc.).
+To analyze the chall.apk given as a problem file, start the analysis using the decompile tool (JEB, JADX, etc.).
 
 ### ○ manifest.xml
 
