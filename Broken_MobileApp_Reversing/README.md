@@ -102,3 +102,8 @@ int main(void) {
 ![Untitled](writeup%208bcf035e69504ff198d6e5bd82ba8a40/Untitled%2010.png)
 
 If you compile and run `solve.c`, you can get a flag as shown in [figure].
+
++ plus
+Frida hooking is impossible due to code writing error in "native.cpp".
+-> Native.cpp Notes
+a question intended for the title broken.
