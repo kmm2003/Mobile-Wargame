@@ -59,7 +59,7 @@ char *generator(char key[24])
     return flag;
 }
 
-extern "C" JNIEXPORT jboolean JNICALL Java_com_dreamhack_reversing_CodeCheck_keyme(
+extern "C" JNIEXPORT jboolean JNICALL Java_com_bob_ctf_CodeCheck_keyme(
         JNIEnv* env,
         jobject, jstring arg1) {
     char key[24];
