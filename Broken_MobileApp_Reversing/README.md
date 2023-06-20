@@ -103,7 +103,6 @@ int main(void) {
 
 If you compile and run `solve.c`, you can get a flag as shown in [figure].
 
-+ plus
 Frida hooking is impossible due to code writing error in "native.cpp".
 -> Native.cpp Notes
 a question intended for the title broken.
